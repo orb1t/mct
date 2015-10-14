@@ -37,6 +37,8 @@ import java.util.Map.Entry;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+
+//Testing git
 public class CanvasLayoutManager implements LayoutManager2 {
     private final static Logger LOGGER = LoggerFactory.getLogger(CanvasLayoutManager.class);
     
